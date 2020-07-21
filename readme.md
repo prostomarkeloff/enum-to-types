@@ -7,8 +7,10 @@ This is somewhat like https://github.com/fmease/tylift but implemented with `mac
 
 ```toml
 [dependencies]
-enum_to_types = "0.1.0"
+enum-to-types = "0.1.0"
 ```
+
+## Example
 
 ```rust
 use enum_to_types::enum_to_types;
