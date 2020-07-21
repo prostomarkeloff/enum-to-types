@@ -1,8 +1,11 @@
 [package]
 name = "enum-to-types"
 version = "0.1.0"
-authors = ["prostomarkeloff <28061158+prostomarkeloff@users.noreply.github.com>"]
+authors = ["prostomarkeloff"]
 edition = "2018"
+description = "Macro for generating pseudo-enums for type-level programming."
+readme = "readme.md"
+license-file = "LICENSE"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
